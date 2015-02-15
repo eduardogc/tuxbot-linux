@@ -1,0 +1,9 @@
+calc:gnome-calculator &
+firefox:firefox &
+eclipse:$HOME/eclipse/./eclipse &
+sublimetext://usr/bin/subl &
+intellijidea:$HOME/idea-IC-139.1117.1/bin/./idea.sh &
+vlc:vlc &
+atom://usr/bin/atom &
+skype:skype &
+systemmonitor:gnome-system-monitor &
