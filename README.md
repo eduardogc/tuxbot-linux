@@ -16,6 +16,8 @@ In this version of the program, you may do:
 
 Put TuxBot anywhere you want and run installation-linux.sh on terminal. No additional setup need.
 
+run the bot with **python chatbot.py**
+
 ## TODO and future work
 
 This version is the most stable version for Linux at the moment, but it is still on development, and you certain find
